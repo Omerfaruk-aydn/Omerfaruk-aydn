@@ -111,6 +111,31 @@ const omer = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
+## 🏆 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Omerfaruk-aydn/Remotedesk">
+    <img src="https://github-readme-stats.demolab.com/api/pin/?username=Omerfaruk-aydn&repo=Remotedesk&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=ffffff" alt="Remotedesk" />
+  </a>
+  <a href="https://github.com/Omerfaruk-aydn/EcoBite-app">
+    <img src="https://github-readme-stats.demolab.com/api/pin/?username=Omerfaruk-aydn&repo=EcoBite-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=ffffff" alt="EcoBite-app" />
+  </a>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## 🎵 Now Playing
+
+<div align="center">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=novatorem&cover_image=true&theme=tokyonight&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+  <br/>
+  <sub>🎧 <b>Geliştirici Modu:</b> Spotify API entegrasyonu (Placeholder)</sub>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
 ## 📈 Activity
 
 <div align="center">
