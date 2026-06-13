@@ -180,6 +180,30 @@ export const profile = {
   <code>// i don't ship bugs — i ship features with undocumented behavior</code>
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## ♟️ Play Chess With Me
+
+<div align="center">
+  <p>I've embedded a live chessboard in my profile. Click a move below to play against me via GitHub Issues!</p>
+  <a href="https://github.com/Omerfaruk-aydn/Omerfaruk-aydn/issues/new?title=Chess%20Move&body=I%20want%20to%20play%20chess!">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=Start%20a%20Chess%20Game&fontColor=7AA2F7&descSize=12&descColor=ffffff&height=60&width=300" alt="Start Game" />
+  </a>
+  <br/>
+  <sub><i>(Powered by GitHub Issues)</i></sub>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## ✍️ Guestbook
+
+<div align="center">
+  <p>Did you like the profile? Leave a mark! Sign my guestbook by dropping a quick comment in the issues.</p>
+  <a href="https://github.com/Omerfaruk-aydn/Omerfaruk-aydn/issues/new?title=Guestbook%20Sign&body=Hey%20Omer!%20Just%20dropping%20by%20to%20say%20hi.%20%F0%9F%91%8B">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=Sign%20My%20Guestbook&fontColor=BB9AF7&descSize=12&descColor=ffffff&height=60&width=300" alt="Sign Guestbook" />
+  </a>
+</div>
+
 <br/>
 
 <div align="center">
