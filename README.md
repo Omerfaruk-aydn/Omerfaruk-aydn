@@ -130,7 +130,7 @@ const omer = {
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/omerfarukaydin">
+  <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-ayd%C4%B1n-a65a24330/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
