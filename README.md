@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Istanbul-TR-7DCFFF?style=for-the-badge&logo=googlemaps&logoColor=7DCFFF&labelColor=0d1117" alt="Location"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <img align="right" width="285" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
 
@@ -40,7 +40,7 @@ const omer = {
 
 <br clear="right"/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## ⚡ Metrics
 
@@ -59,7 +59,7 @@ const omer = {
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <details>
 <summary><b>🛠 Tech Stack</b></summary>
@@ -109,7 +109,32 @@ const omer = {
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## 🏆 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Omerfaruk-aydn/Remotedesk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omerfaruk-aydn&repo=Remotedesk&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=ffffff" alt="Remotedesk" />
+  </a>
+  <a href="https://github.com/Omerfaruk-aydn/EcoBite-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Omerfaruk-aydn&repo=EcoBite-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=ffffff" alt="EcoBite-app" />
+  </a>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## 🎵 Now Playing
+
+<div align="center">
+  <a href="https://github.com/novatorem/novatorem">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=tokyonight&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+  <br/>
+  <sub>⚠️ <b>Not:</b> Spotify widget'ının çalışması için kendi ID'ni girmen gerekir. Gerekli değilse bu bölümü silebilirsin.</sub>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 📈 Activity
 
@@ -123,7 +148,7 @@ const omer = {
   <img src="https://streak-stats.demolab.com/?user=Omerfaruk-aydn&theme=tokyonight&hide_border=true&background=0D1117&stroke=7AA2F7&ring=BB9AF7&fire=7DCFFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7AA2F7&sideLabels=7AA2F7&dates=565f89" alt="GitHub Streak"/>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
   <a href="https://github.com/Omerfaruk-aydn">
