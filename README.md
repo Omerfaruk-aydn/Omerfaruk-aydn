@@ -462,7 +462,7 @@
 
 <br>
 
-<!-- Snake animation needs GitHub Action: https://github.com/platane/snk -->
+![Snake](https://raw.githubusercontent.com/Omerfaruk-aydn/Omerfaruk-aydn/output/snake.svg)
 
 </div>
 
@@ -472,6 +472,6 @@
 
 <div align="center">
 
-![Profile Views](https://visitor-badge.lunaai.ac/badge?page_id=Omerfaruk-aydn.Omerfaruk-aydn&style=flat-square&color=7AA2F7&labelColor=0D1117&label=VISITORS)
+![Profile Views](https://img.shields.io/badge/VISITORS-45-7AA2F7?style=flat-square&labelColor=0D1117)
 
 </div>
