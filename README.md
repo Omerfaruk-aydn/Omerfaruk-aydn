@@ -303,9 +303,9 @@
 
 <div align="center">
 
-### 🏆 Achievements
+### 📊 My Stats
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Omerfaruk-aydn&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&bg_color=0D1117&ring=7AA2F7&title_color=7AA2F7)
+![Omerfaruk-aydn's Stats](https://github-readme-stats.vercel.app/api?username=Omerfaruk-aydn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=ffffff&include_all_repos=true)
 
 </div>
 
@@ -462,7 +462,7 @@
 
 <br>
 
-![Snake Animation](https://raw.githubusercontent.com/Omerfaruk-aydn/Omerfaruk-aydn/output/github-snake-dark.svg)
+<!-- Snake animation needs GitHub Action: https://github.com/platane/snk -->
 
 </div>
 
@@ -472,6 +472,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Omerfaruk-aydn&color=7AA2F7&labelColor=0D1117&style=flat-square&label=VISITORS)
+![Profile Views](https://visitor-badge.lunaai.ac/badge?page_id=Omerfaruk-aydn.Omerfaruk-aydn&style=flat-square&color=7AA2F7&labelColor=0D1117&label=VISITORS)
 
 </div>
