@@ -124,25 +124,7 @@ const omerFarukAydin = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Omerfaruk-aydn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies" />
-
-<br/>
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omerfaruk-aydn&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-
-<br/>
-<br/>
-
-<!-- 
-  NOTE: The Snake Animation below requires the GitHub Action included in `.github/workflows/snake.yml` to run at least once. 
-  It creates the `output` branch containing these SVG files. 
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omerfaruk-aydn/Omerfaruk-aydn/output/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omerfaruk-aydn/Omerfaruk-aydn/output/dist/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Omerfaruk-aydn/Omerfaruk-aydn/output/dist/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omerfaruk-aydn&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%" />
 
 </div>
 
