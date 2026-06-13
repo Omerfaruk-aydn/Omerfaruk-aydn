@@ -462,7 +462,6 @@
 
 <br>
 
-![Snake](https://raw.githubusercontent.com/Omerfaruk-aydn/Omerfaruk-aydn/output/snake.svg)
 
 </div>
 
