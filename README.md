@@ -182,6 +182,14 @@ export const profile = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
+## 🏙️ 3D Contribution Skyline
+
+<div align="center">
+  <img src="assets/skyline.svg" alt="3D Skyline" width="100%" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
 ## ♟️ Play Chess With Me
 
 <div align="center">
