@@ -31,25 +31,37 @@ I build clean interfaces, resilient backend services, and automation tools that 
 
 <br/>
 
-## 📊 Developer Metrics
+## 📊 GitHub Statistics
+
+<br/>
 
 <div align="center">
-  <img src="github-metrics/isocalendar.svg" alt="Isometric Calendar" />
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Omerfaruk-aydn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omerfaruk-aydn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omerfaruk-aydn&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38BDF8&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<div align="center">
-  <img src="github-metrics/languages.svg" alt="Languages Indepth" width="49%"/>
-  <img src="github-metrics/achievements.svg" alt="Achievements" width="49%"/>
-</div>
+<br/>
+
+### 📈 My Contribution Graph
 
 <div align="center">
-  <img src="github-metrics/activity.svg" alt="Recent Activity" width="49%"/>
-  <img src="github-metrics/notable.svg" alt="Notable Contributions" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="github-metrics/habits.svg" alt="Coding Habits" width="49%"/>
-  <img src="github-metrics/lines.svg" alt="Lines of Code" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omerfaruk-aydn&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 <br/>
