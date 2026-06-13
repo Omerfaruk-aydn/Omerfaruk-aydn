@@ -33,8 +33,7 @@ const omerFarukAydin = {
     "modern web applications",
     "clean user interfaces",
     "backend APIs",
-    "automation",
-    "AI-assisted workflows"
+    "automation"
   ],
   principles: [
     "ship usable products",
@@ -61,7 +60,6 @@ const omerFarukAydin = {
 
 <a href="mailto:omerfarukaydin3455@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail" alt="Email" /></a>
 <a href="https://github.com/Omerfaruk-aydn"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/omerfarukaydin/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
     </td>
   </tr>
 </table>
