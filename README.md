@@ -148,8 +148,6 @@ const omerFarukAydin = {
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Omerfaruk-aydn&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)
 
-![Snake animation](https://raw.githubusercontent.com/Omerfaruk-aydn/Omerfaruk-aydn/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 
 ---
