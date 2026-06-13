@@ -458,10 +458,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b26,100:7AA2F7&height=120&section=footer" width="100%"/>
-
-<br>
-
+![Snake Animation](https://raw.githubusercontent.com/Omerfaruk-aydn/Omerfaruk-aydn/gh-pages/output/snake.svg)
 
 </div>
 
