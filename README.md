@@ -44,33 +44,19 @@ const omer = {
 
 ## ⚡ Metrics
 
-<sub>Powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — auto-refreshed every 24h via GitHub Actions</sub>
-
 <div align="center">
-  <img height="175" src="github-metrics/isocalendar.svg" alt="Isometric Commit Calendar"/>
-  <img height="175" src="github-metrics/languages.svg" alt="Languages (Indepth Analysis)"/>
-</div>
 
-<div align="center">
-  <img src="github-metrics/achievements.svg" alt="GitHub Achievements"/>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Omerfaruk-aydn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=ffffff" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omerfaruk-aydn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=ffffff&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img height="255" src="github-metrics/habits.svg" alt="Coding Habits"/>
-  <img height="255" src="github-metrics/activity.svg" alt="Recent Activity"/>
-</div>
-
-<div align="center">
-  <img src="github-metrics/skyline.svg" alt="GitHub Skyline — 3D Commit City"/>
-</div>
-
-<div align="center">
-  <img height="190" src="github-metrics/stargazers.svg" alt="Stargazers Growth"/>
-  <img height="190" src="github-metrics/lines.svg" alt="Lines of Code Changed"/>
-</div>
-
-<div align="center">
-  <img src="github-metrics/music.svg" alt="Currently Playing on Spotify"/>
 </div>
 
 ---
@@ -126,14 +112,6 @@ const omer = {
 ---
 
 ## 📈 Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-metrics/snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="github-metrics/snake.svg"/>
-    <img alt="Snake eating my contributions" src="github-metrics/snake-dark.svg"/>
-  </picture>
-</div>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Omerfaruk-aydn&theme=tokyo-night&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=BB9AF7&area=true&hide_border=true" alt="Contribution Graph"/>
