@@ -1,0 +1,70 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated developer terminal banner</title>
+  <desc id="desc">A dark terminal-style banner for Omer Faruk Aydin's GitHub profile.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#042F2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.2 0 0 0 0 0.75 0 0 0 0 0.95 0 0 0 0.5 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#1E293B" stroke-width="1" opacity="0.38"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="995" cy="60" r="150" fill="#2563EB" opacity="0.12" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.08;0.18;0.08" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="130" cy="315" r="180" fill="#14B8A6" opacity="0.12" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.16;0.08;0.16" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="70" y="54" width="1060" height="252" rx="20" fill="#020617" opacity="0.82" stroke="#1E293B" stroke-width="2"/>
+  <rect x="70" y="54" width="1060" height="48" rx="20" fill="#0F172A"/>
+  <path d="M70 82C70 66.536 82.536 54 98 54H1102C1117.46 54 1130 66.536 1130 82V102H70V82Z" fill="#111827"/>
+  <circle cx="105" cy="78" r="7" fill="#F87171"/>
+  <circle cx="130" cy="78" r="7" fill="#FBBF24"/>
+  <circle cx="155" cy="78" r="7" fill="#34D399"/>
+
+  <text x="600" y="84" text-anchor="middle" fill="#94A3B8" font-family="JetBrains Mono, Consolas, monospace" font-size="14">github.com/Omerfaruk-aydn</text>
+
+  <text x="105" y="140" fill="#38BDF8" font-family="JetBrains Mono, Consolas, monospace" font-size="21" font-weight="700">$ whoami</text>
+  <text x="105" y="178" fill="#E5E7EB" font-family="JetBrains Mono, Consolas, monospace" font-size="28" font-weight="800">Omer Faruk Aydin</text>
+  <text x="105" y="214" fill="#CBD5E1" font-family="JetBrains Mono, Consolas, monospace" font-size="20">Full-Stack Developer | Istanbul, Turkiye</text>
+
+  <g opacity="0">
+    <text x="105" y="258" fill="#14B8A6" font-family="JetBrains Mono, Consolas, monospace" font-size="19">build --focus web-apps apis automation ai-tools</text>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.18;0.82;1" dur="4s" begin="0s" repeatCount="indefinite"/>
+  </g>
+  <g opacity="0">
+    <text x="105" y="258" fill="#A78BFA" font-family="JetBrains Mono, Consolas, monospace" font-size="19">ship --quality clean-code polished-ui practical-products</text>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.18;0.82;1" dur="4s" begin="4s" repeatCount="indefinite"/>
+  </g>
+
+  <rect x="105" y="278" width="620" height="3" rx="1.5" fill="#1E293B"/>
+  <rect x="105" y="278" width="150" height="3" rx="1.5" fill="url(#accent)">
+    <animate attributeName="x" values="105;575;105" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <g transform="translate(815 125)">
+    <rect width="230" height="124" rx="16" fill="#0F172A" stroke="#334155"/>
+    <text x="26" y="38" fill="#38BDF8" font-family="JetBrains Mono, Consolas, monospace" font-size="16">status</text>
+    <text x="26" y="70" fill="#E5E7EB" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="700">Building</text>
+    <text x="26" y="100" fill="#94A3B8" font-family="JetBrains Mono, Consolas, monospace" font-size="15">learning + shipping</text>
+    <circle cx="194" cy="37" r="9" fill="#22C55E">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
