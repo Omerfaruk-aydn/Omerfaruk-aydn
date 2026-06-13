@@ -115,10 +115,11 @@ const omer = {
 
 <div align="center">
   <a href="https://github.com/Omerfaruk-aydn/Remotedesk">
-    <img src="https://github-readme-stats.demolab.com/api/pin/?username=Omerfaruk-aydn&repo=Remotedesk&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=ffffff" alt="Remotedesk" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=Remotedesk&desc=Remote%20Desktop%20Control%20Application&fontColor=7AA2F7&descSize=12&descColor=ffffff&height=100&width=350" alt="Remotedesk" />
   </a>
+  &nbsp;
   <a href="https://github.com/Omerfaruk-aydn/EcoBite-app">
-    <img src="https://github-readme-stats.demolab.com/api/pin/?username=Omerfaruk-aydn&repo=EcoBite-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=ffffff" alt="EcoBite-app" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=EcoBite-app&desc=Food%20Waste%20Reduction%20Platform&fontColor=7AA2F7&descSize=12&descColor=ffffff&height=100&width=350" alt="EcoBite-app" />
   </a>
 </div>
 
@@ -128,10 +129,8 @@ const omer = {
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=novatorem&cover_image=true&theme=tokyonight&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=Currently%20Listening...&desc=Lofi%20Coding%20Beats%20to%20Ship%20To%20%E2%99%AC&fontColor=1DB954&descSize=14&descColor=ffffff&height=80&width=400" alt="Spotify Now Playing" />
   </a>
-  <br/>
-  <sub>🎧 <b>Geliştirici Modu:</b> Spotify API entegrasyonu (Placeholder)</sub>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
