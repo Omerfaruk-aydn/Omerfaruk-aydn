@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&height=45&lines=Full-Stack+Developer+%F0%9F%9A%80;AI-Powered+UI+Architect+%F0%9F%A4%96;React+%E2%80%A2+Next.js+%E2%80%A2+Python+%E2%80%A2+FastAPI;Always+building%2C+always+shipping+%E2%9C%A8" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&height=45&lines=omerfaruk%40macbook:~%24+whoami;Full-Stack+Developer+%F0%9F%9A%80;AI-Powered+UI+Architect+%F0%9F%A4%96;React+%E2%80%A2+Next.js+%E2%80%A2+Python+%E2%80%A2+FastAPI;Always+building%2C+always+shipping+%E2%9C%A8" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -22,20 +22,35 @@
 
 <img align="right" width="285" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
 
-I build at the intersection of **AI systems** and **frontend craft** — autonomous agents, real-time interfaces, and the kind of UI that makes other engineers stop mid-scroll and ask *"wait, how did you do that?"*
+### 💻 `Terminal`
+
+```bash
+🔴 🟡 🟢
+omerfaruk@github:~$ cat about_me.txt
+
+> I build at the intersection of AI systems and frontend craft.
+> Autonomous agents, real-time interfaces, and the kind of UI 
+> that makes other engineers stop mid-scroll and ask:
+> "wait, how did you do that?"
+
+omerfaruk@github:~$ ./execute_status.sh
+Loading current status... [████████████████████] 100%
+```
 
 Based in **Istanbul** 🇹🇷. Currently focused on making AI feel less like a chatbot and more like infrastructure. Strong opinions on dark themes, zero tolerance for broken loading states, and an unhealthy obsession with micro-interactions.
 
 ```ts
-const omer = {
+// 🔴 🟡 🟢
+// macos/dev/config.ts
+
+export const profile = {
   timezone:  "Europe/Istanbul 🕐",
   role:      "Full-Stack Developer",
   focus:     ["AI-Powered UIs", "React Ecosystems", "System Design"],
   currently: "Building things that probably shouldn't exist yet",
   ask_me:    ["React", "Next.js", "FastAPI", "LLM Integrations"],
   fun_fact:  "I've shipped entire UIs between midnight and 4am ☕",
-  // the dark theme is not optional
-} as const
+} as const;
 ```
 
 <br clear="right"/>
