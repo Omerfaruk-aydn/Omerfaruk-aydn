@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/Omerfaruk-aydn">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b26,100:7AA2F7&height=220&section=header&text=%F0%9F%91%8B%20Merhaba%2C%20I'm%20%C3%96mer%20Faruk%20Ayd%C4%B1n&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Architect%20%7C%20Problem%20Solver&descSize=18&descAlignY=55&descAlign=center&rotate=0&stroke=7AA2F7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b26,100:7AA2F7&height=220&section=header&text=%F0%9F%91%8B%20Hello%2C%20I'm%20%C3%96mer%20Faruk%20Ayd%C4%B1n&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Architect%20%7C%20Problem%20Solver&descSize=18&descAlignY=55&descAlign=center&rotate=0&stroke=7AA2F7" width="100%"/>
 </a>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
