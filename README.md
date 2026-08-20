@@ -4,16 +4,26 @@
 <!--                    ANIMATED HEADER                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/Omerfaruk-aydn">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b26,100:7AA2F7&height=220&section=header&text=%F0%9F%91%8B%20Hello%2C%20I'm%20%C3%96mer%20Faruk%20Ayd%C4%B1n&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Architect%20%7C%20Problem%20Solver&descSize=18&descAlignY=55&descAlign=center&rotate=0&stroke=7AA2F7" width="100%"/>
+<a href="https://omerfarukaydn.com" target="_blank">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b26,100:7AA2F7&height=240&section=header&text=%F0%9F%91%8B%20%C3%96mer%20Faruk%20Ayd%C4%B1n&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%F0%9F%9A%80%20Full-Stack%20Developer%20%C2%B7%20AI%20Architect%20%C2%B7%20Computer%20Programmer&descSize=18&descAlignY=58&descAlign=center&rotate=0&stroke=c5ff3a" width="100%"/>
 </a>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              🔥 HERO CTA — VISIT MY PORTFOLIO 🔥               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <a href="https://omerfarukaydn.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-omerfarukaydn.com-c5ff3a?style=for-the-badge&logo=google-chrome&logoColor=0D1117&labelColor=0D1117&fontWeight=900" alt="Portfolio" />
+  </a>
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    TYPING SVG ANIMATION                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%92%BB+AI-Powered+Systems+%7C+Frontend+Craft;Always+building+things+that+shouldn't+exist+yet;Code.+Build.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=c5ff3a&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Multi-tenant+SaaS+%7C+Trading+Bots+%7C+Local+LLM+Tools;AI+Integration+Specialist+since+2024;Ship+production+%E2%9D%96+Write+about+it" alt="Typing SVG" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -22,7 +32,11 @@
 
 <p align="center">
 
-<!-- Animated glow badges -->
+<!-- Primary: Portfolio — first & most prominent -->
+<a href="https://omerfarukaydn.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-omerfarukaydn.com-c5ff3a?style=for-the-badge&logo=google-chrome&logoColor=0D1117&labelColor=0D1117" alt="Portfolio" />
+</a>
+
 <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-ayd%C4%B1n-a65a24330/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
 </a>
@@ -82,10 +96,10 @@
 ║  │  Building at the intersection of AI & UI craft.         │    ║
 ║  │                                                         │    ║
 ║  │  🔴 Currently: Shipping AI-powered interfaces          │    ║
-║  │  🟡 Focus: React · Next.js · Python · LLM APIs         │    ║
-║  │  🟢 Open to: Collaborations & new challenges            │    ║
+║  │  🟡 Focus: Next.js · Python · LLM APIs · RLS · Tauri  │    ║
+║  │  🟢 Open to: Senior roles & select freelance           │    ║
 ║  │                                                         │    ║
-║  │  $ ./execute.sh — Things that shouldn't exist yet       │    ║
+║  │  $ open omerfarukaydn.com  ← case studies + blog       │    ║
 ║  └─────────────────────────────────────────────────────────┘    ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -121,12 +135,15 @@
 <td width="50%" valign="top">
 
 ### 📍 Quick Facts
-- 🌍 **Based in** — Istanbul, Turkey
-- 🎓 **Role** — Full-Stack Developer
-- 💡 **Passion** — AI × Frontend
-- ⚡ **Stack** — React · Next.js · Python · Node.js
-- 🔥 **Currently** — Building AI-powered UIs
-- ☕ **Fun fact** — Shipped entire UIs between midnight and 4am
+- 🌍 **Based in** — Istanbul, Turkey 🇹🇷
+- 🎓 **Education** — İstanbul Topkapı Üniversitesi (2025)
+- 💼 **Role** — Full-Stack Developer & AI Integrator
+- 💡 **Passion** — AI × Full-Stack Engineering
+- ⚡ **Stack** — Next.js · React · Python · FastAPI · Supabase
+- 🌐 **Portfolio** — [**omerfarukaydn.com**](https://omerfarukaydn.com)
+- 🔥 **Currently** — Shipping multi-tenant SaaS + local LLM tools
+- 🏆 **Awards** — Cisco × 4 · BTK Hackathon 2026
+- ☕ **Fun fact** — Built a 1.85 Sharpe trading bot in 3 months
 
 </td>
 </tr>
@@ -321,6 +338,29 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
+## <div align="center">📝 Latest from my Blog</div>
+
+<br>
+
+<div align="center">
+
+| 🚀 [XGBoost + Bayesian for Crypto Signals](https://omerfarukaydn.com/blog/xgboost-trading-bot.html) | 🏢 [Multi-Tenant SaaS: RLS + Subdomain + Auth](https://omerfarukaydn.com/blog/multi-tenant-saas.html) | 🧠 [llama.cpp + VRAM-Aware Model Routing](https://omerfarukaydn.com/blog/llama-cpp-local-llm.html) |
+|:---:|:---:|:---:|
+| 13 indicators · XGBoost + Bayesian · 1.85 Sharpe | Next.js middleware · Postgres RLS · 3 isolation layers | llama.cpp · OpenAI-compatible API · Auto VRAM routing |
+| **[Read on omerfarukaydn.com →](https://omerfarukaydn.com/blog/xgboost-trading-bot.html)** | **[Read on omerfarukaydn.com →](https://omerfarukaydn.com/blog/multi-tenant-saas.html)** | **[Read on omerfarukaydn.com →](https://omerfarukaydn.com/blog/llama-cpp-local-llm.html)** |
+
+<br>
+
+<p align="center">
+  <a href="https://omerfarukaydn.com" target="_blank">
+    <img src="https://img.shields.io/badge/→_EXPLORE_ALL_CASE_STUDIES_&_BLOG_POSTS-omerfarukaydn.com-c5ff3a?style=for-the-badge&logo=google-chrome&logoColor=0D1117&labelColor=0D1117" alt="Portfolio" />
+  </a>
+</p>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
 ## <div align="center">🏆 Featured Projects</div>
 
 <br>
@@ -411,30 +451,34 @@
 ║                                                                  ║
 ║      → Software Architecture & System Design                    ║
 ║      → AI Integration & LLM Applications                        ║
-║      → Frontend Engineering & UI/UX                             ║
+║      → Multi-Tenant SaaS Engineering                            ║
 ║      → Open Source Collaboration                                ║
 ║      → New Technologies & Innovation                            ║
 ║                                                                  ║
-║   📧 Email: omerfarukaydin3455@gmail.com                       ║
-║   💼 LinkedIn: /in/ömer-faruk-aydın                             ║
-║   🐙 GitHub: @Omerfaruk-aydn                                    ║
+║   🌐 Portfolio → omerfarukaydn.com                              ║
+║   📧 Email    → omerfarukaydin3455@gmail.com                   ║
+║   💼 LinkedIn → /in/ömer-faruk-aydın                            ║
+║   🐙 GitHub   → @Omerfaruk-aydn                                 ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-<a href="https://www.linkedin.com/in/%C3%B6mer-faruk-ayd%C4%B1n-a65a24330/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
-</a>
-
-<a href="mailto:omerfarukaydin3455@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
-</a>
-
-<a href="https://github.com/Omerfaruk-aydn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-</a>
+<p align="center">
+  <a href="https://omerfarukaydn.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-omerfarukaydn.com-c5ff3a?style=for-the-badge&logo=google-chrome&logoColor=0D1117&labelColor=0D1117" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-ayd%C4%B1n-a65a24330/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="mailto:omerfarukaydin3455@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/Omerfaruk-aydn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  </a>
+</p>
 
 </div>
 
@@ -468,6 +512,6 @@
 
 <div align="center">
 
-![Profile Views](https://img.shields.io/badge/VISITORS-45-7AA2F7?style=flat-square&labelColor=0D1117)
+[![Profile Views](https://komarev.com/ghpvc/?username=Omerfaruk-aydn&color=c5ff3a&labelColor=0D1117&style=for-the-badge&label=PROFILE+VIEWS)](https://omerfarukaydn.com)
 
 </div>
